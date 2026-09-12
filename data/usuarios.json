@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "flavio",
+    "usuario": "flavio",
+    "senha": "123456",
+    "email": "flav",
+    "vitorias": 0,
+    "derrotas": 2,
+    "saldo": 0.0
+  },
+  {
+    "id": 123,
+    "nome": "Bernardo",
+    "usuario": "bee",
+    "senha": "123456",
+    "email": "bee",
+    "vitorias": 2,
+    "derrotas": 0,
+    "saldo": 240.0
+  },
+  {
+    "id": 12,
+    "nome": "flavin",
+    "usuario": "flavin",
+    "senha": "123456",
+    "email": "flavin",
+    "vitorias": 1,
+    "derrotas": 1,
+    "saldo": 1300.0
+  }
+]

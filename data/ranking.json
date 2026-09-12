@@ -1,0 +1,23 @@
+[
+  {
+    "posicao": 1,
+    "nome": "Bernardo",
+    "vitorias": 2,
+    "derrotas": 0,
+    "saldo": 240.0
+  },
+  {
+    "posicao": 2,
+    "nome": "flavin",
+    "vitorias": 1,
+    "derrotas": 1,
+    "saldo": 1300.0
+  },
+  {
+    "posicao": 3,
+    "nome": "flavio",
+    "vitorias": 0,
+    "derrotas": 2,
+    "saldo": 0.0
+  }
+]
